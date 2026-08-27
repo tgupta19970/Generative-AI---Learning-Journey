@@ -8,7 +8,7 @@
 4. Task 4 – Generate Summary Report from File  
 5. Task 5 – Create Product Info File (using Dictionary)  
 6. Task 6 – Read File Safely (Error Handling)  
-7. **Task 7** – Export Discounted Prices (Mini Project)
+7. Task 7 – Export Discounted Prices (Mini Project)
 
 
 ## 2. Functions & Methods Used
